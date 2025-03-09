@@ -1,7 +1,7 @@
 # agatetepe-2011
 Agatetepê server (2011)
 
-Observação: Esse código foi feito em stemebro de 2011 e coloquei aqui no GitHub (já em 2025) para manter público e arquivado. Não será alterado futuramente.
+Observação: Esse código foi feito em setembro de 2011 e coloquei aqui no GitHub (já em 2025) para manter público e arquivado. Não será alterado futuramente.
 
 Segue o conteúdo do `README` convertido para o formato Markdown. Os e-mails originalmente citados já não existem mais.
 
